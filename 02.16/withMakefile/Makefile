@@ -1,5 +1,6 @@
 
 CXX=clang++
+# CXX=g++
 
 default: demo1 demo2
 

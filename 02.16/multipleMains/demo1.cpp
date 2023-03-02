@@ -6,6 +6,7 @@ using namespace std;
 
 #include "tempFuncs.h"
 
+
 void usage() {
     cerr << "Usage: ./demo1 temp scale" << endl
          << "  where temp is a temperature (numeric) " << endl

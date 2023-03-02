@@ -52,6 +52,7 @@ double outputTemperature(double inputTemp, string scale) {
 
 
 int main(int argc, char *argv[]) {
+  cout << "Welcome!" << endl;
   if (argc != 4) {
     usage();
     exit(1);
